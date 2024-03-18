@@ -1,6 +1,6 @@
 # Jogo da Forca
 
- Projeto desenvolvido durante o segundo semestre de Engenharia da Computação com o objetivo de reunir um grupo para criar coletivamente um jogo da forca programado em C. Para a aprovação do projeto, era necessário incluir as principais mecânicas: escolha da letra, exibição do número de erros e leitura da palavra a ser adivinhada, particularmente, fui responsável pelos arquivos: "arquivos.h", "menu.h", "main.c" e também pelos arquivos de texto. Além disso, funcionalidades para ler e salvar em arquivos.
+ Projeto desenvolvido durante o segundo semestre de Engenharia da Computação com o objetivo de reunir um grupo para criar coletivamente um jogo da forca programado em C. Para a aprovação do projeto, era necessário incluir as principais mecânicas: escolha da letra, exibição do número de erros e leitura da palavra a ser adivinhada. Além disso, funcionalidades para ler e salvar em arquivos. Particularmente, fui responsável pelos arquivos: "arquivos.h", "menu.h", "main.c" e também pelos arquivos de texto.
 
 ## Funcionalidades
 
